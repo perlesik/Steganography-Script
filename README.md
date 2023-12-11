@@ -3,10 +3,10 @@ Python script for university assignment, it allows user to encrypt hidden messag
 
 1. Initial commit
   - first commit
-  - added new files
+  - added new files - textfile1.txt, textfile2.txt, textfile3.txt
 2. File changes
-  - changes made to some files
+  - updated textfile2.txt to textfile99.txt
 3. Files update
-  - updated structure of files
+  - removed textfile1.txt and textfile2.txt
 4. Added .gitignore
-  - added .gitignore file to make work a little bit easier
+  - added .gitignore file
