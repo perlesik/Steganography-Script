@@ -1,6 +1,7 @@
 # Zadanie 4
 List of commits in this repo.
 
+# List of changes
 1. Initial commit
   - first commit
   - added new files - textfile1.txt, textfile2.txt, textfile3.txt
